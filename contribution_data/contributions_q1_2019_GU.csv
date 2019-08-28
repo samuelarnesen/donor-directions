@@ -1,0 +1,4 @@
+filing_id,linenumber,flag_orgind,org_name,last_name,first_name,middle_name,prefix,suffix,address_one,address_two,city,state,zip,employer,occupation,amount,date,aggregate_amount,memo_code,memo_text,tran_id,back_ref_tran_id,back_ref_sched_name,prigen,cycle,fecid,committee_name
+1326070,SA17A,IND,"",Orsini,Rikki,"","","",PO Box 1169,"",Hagatna,GU,96932,Guam Legislature,Senior Policy Advisor,127,3/30/2019,211,"",* Earmarked Contribution: See Below,10796627,10796627E,SA17A,P2020,2020,C00696948,Bernie 2020
+1326070,SA17A,IND,"",Orsini,Rikki,"","","",PO Box 1169,"",Hagatna,GU,96932,Guam Legislature,Senior Policy Advisor,10,3/31/2019,211,"",* Earmarked Contribution: See Below,10753208,10753208E,SA17A,P2020,2020,C00696948,Bernie 2020
+1337251,SA17A,IND,"",SAN NICOLAS,GREGG,"","","",153 CH PALE DUENAS HAYA,"",SANTA RITA,GU,96815,NOT EMPLOYED,NOT EMPLOYED,250,3/27/2019,250,"","",SA17A.17279,"","",P2020,2020,C00580100,"Donald J. Trump For President, Inc."
